@@ -16,3 +16,6 @@ This Chrome Extension converts all the profile images on a LinkedIn page to a co
 
 This will change all the profile images on your current LinkedIn page to the chosen common image.
 
+![image](https://github.com/Harshal141/Platypus-Inator/assets/91362856/ef9f37f5-d475-4261-833b-ef35f3d4e751)
+
+Extension Demo - [Watch Video](https://www.loom.com/share/b383443b22e948ac881cb7a6c657c637?sid=092672a3-b3a5-4af8-814d-7b9c1ce82f4d)
