@@ -1,0 +1,32 @@
+{
+    "manifest_version": 3,
+    "name": "Platypus Inator",
+    "description": "Enables us to change all the profile pictures in LinkedIn",
+    "version": "1.1",
+    "icons": {
+      "16": "images/profile-16.png",
+      "32": "images/profile-32.png",
+      "48": "images/profile-48.png",
+      "128": "images/profile-128.png"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_icon": {
+        "16": "images/profile-16.png",
+        "32": "images/profile-32.png",
+        "48": "images/profile-48.png",
+        "128": "images/profile-128.png"
+      }
+    },
+    "permissions": ["scripting", "activeTab"],
+    "commands": {
+      "_execute_action": {
+        "suggested_key": {
+          "default": "Ctrl+B",
+          "mac": "Command+B"
+        }
+      }
+    }
+  }
